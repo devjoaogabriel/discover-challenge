@@ -4,9 +4,9 @@
 
 ---
 
-<img src="./LoginPage.png"/>
+<img src="./form-rocket"/>
 
-<h4 align="center"><a href="">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="#">Clique para visitar o projeto</a></h4>
 
 ---
 
@@ -19,9 +19,8 @@ Utilizei apenas essas tecnologias com base em práticar meus conhecimentos:
 
 ---
 
-> #### Inspirado no Desafio 04 do Programador e UI Designer IURICODE!
+> #### Inspirado no Desafio Login Form CSS da série Discover na Rocketseat!
 >
-> - <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codelândia?node-id=624%3A2">Clique aqui</a> para acessar aos desafios no Figma.
-> - <a href="https://github.com/iuricode">Clique aqui</a> para acessar ao perfil do criador dos desafios no GitHub.
+> - <a href="https://app.rocketseat.com.br/discover/challenges">Clique aqui</a> para acessar ao desafio na Rocketseat.
 >
 ---
