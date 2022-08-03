@@ -1,10 +1,10 @@
 <h1 align="center">
-  💻<br>LoginForm Rocketseat
+  💻<br>Login Form CSS Rocketseat
 </h1>
 
 ---
 
-<img src="./form-rocket"/>
+<img src="./form-rocket.jpg"/>
 
 <h4 align="center"><a href="#">Clique para visitar o projeto</a></h4>
 
