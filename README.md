@@ -6,7 +6,7 @@
 
 <img src="./form-rocket.jpg"/>
 
-<h4 align="center"><a href="discover-challenge.vercel.app">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://discover-challenge.vercel.app">Clique para visitar o projeto</a></h4>
 
 ---
 
